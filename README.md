@@ -17,11 +17,3 @@ An introduction to the basics of using Docker.
 4. [Sharing images](https://github.com/poiuytrez/docker-training/blob/master/exercises/basic/4-sharing_images/README.md)
 5. [Volumes](https://github.com/poiuytrez/docker-training/blob/master/exercises/basic/5-volumes/README.md)
 6. [Networking](https://github.com/poiuytrez/docker-training/blob/master/exercises/basic/6-networking/README.md)
-
-### Docker Compose
-
-1. Basics
-
-### Dockerization Exercises
-
-1. Rails + Database application
