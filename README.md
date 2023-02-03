@@ -17,3 +17,7 @@ An introduction to the basics of using Docker.
 4. [Sharing images](https://github.com/poiuytrez/docker-training/blob/master/exercises/basic/4-sharing_images/README.md)
 5. [Volumes](https://github.com/poiuytrez/docker-training/blob/master/exercises/basic/5-volumes/README.md)
 6. [Networking](https://github.com/poiuytrez/docker-training/blob/master/exercises/basic/6-networking/README.md)
+
+### Real life exercices
+
+1. Build a FastAPI server for developement: https://fastapi.tiangolo.com/deployment/docker/#build-a-docker-image-for-fastapi
